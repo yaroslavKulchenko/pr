@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PloxayaLama/Praktika_Part_2.git"
+    "url": "git+https://github.com/yaroslavKulchenko/pr"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PloxayaLama/Praktika_Part_2/issues"
+    "url": "https://github.com/yaroslavKulchenko/pr/issues"
   },
-  "homepage": "https://github.com/PloxayaLama/Praktika_Part_2#readme",
+  "homepage": "https://github.com/yaroslavKulchenko/pr#readme",
   "dependencies": {
     "@vue/cli": "^4.5.8",
     "axios": "^0.20.0",
